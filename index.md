@@ -6,4 +6,4 @@ Legal documents:
 - Terms of Use are governed by Apple’s Standard End User License Agreement (EULA):
   https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-_Last updated: January 15, 2026_
+_Last updated: January 28, 2026_
