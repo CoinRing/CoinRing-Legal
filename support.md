@@ -19,6 +19,7 @@ Privacy Policy:
 https://coinring.github.io/CoinRing-Legal/privacy
 
 Terms of Use:
-https://coinring.github.io/CoinRing-Legal/terms
+Terms of Use are governed by Apple’s Standard End User License Agreement (EULA):
+  https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 © 2026 CoinRing
