@@ -35,12 +35,17 @@ We use **Mixpanel** to collect app usage and interaction data to understand how 
 
 Analytics data is typically **pseudonymous** and not intended to directly identify individual users.
 
+The app does **not** use the Apple Advertising Identifier (IDFA) and does **not** track users across apps or websites.
+App Tracking Transparency (ATT) permission is therefore **not requested**.
+
 ### D) Advertising (Google AdMob)
 If you use the free version, the app may display ads via **Google AdMob**.  
 AdMob may process data such as:
 - Device identifiers
 - Approximate location
 - Ad interactions
+
+Ads are shown in a non-personalized form only and are not based on cross-app or cross-website tracking.
 
 Google’s privacy policy:  
 https://policies.google.com/privacy
@@ -85,10 +90,12 @@ We do not guarantee accuracy or completeness.
 - You can disable push notifications in iOS settings.
 - You can limit ad tracking and privacy settings on your device (where supported by the operating system).
 - You can choose not to use in-app support if you do not wish to share support-related data.
+- The app does not request App Tracking Transparency (ATT) permission as no tracking across apps or websites is performed.
 
 ## 8. Data Retention
 We retain data only as long as necessary for the purposes described above or as required by law.  
-You may request deletion of your account and associated data via in-app support.
+You can delete your account and associated data directly in the app under:
+Settings → Security → Delete Account.
 
 ## 9. Changes
 We may update this Privacy Policy from time to time.  
