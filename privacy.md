@@ -1,7 +1,7 @@
 # Privacy Policy  
 **CoinRing – Coins & Alerts**
 
-_Last updated: January 15, 2026_
+_Last updated: January 28, 2026_
 
 ## 1. Overview
 CoinRing (“we”, “our”, or “the app”) is a cryptocurrency tracking app that lets you monitor prices, set alerts, and receive notifications.  
