@@ -20,6 +20,7 @@ https://coinring.github.io/CoinRing-Legal/privacy
 
 Terms of Use:
 Terms of Use are governed by Apple’s Standard End User License Agreement (EULA):
-  https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-© 2026 CoinRing
+
+© CoinRing
